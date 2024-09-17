@@ -1,0 +1,30 @@
+canvas {
+    border: 5px solid #0059ff;
+    border-radius: 10px;
+   background-color: rgb(47, 230, 47);
+    justify-content: center;
+    align-items: center;
+    margin-left: 0%;
+    margin: 0 auto;
+    margin-bottom: -13px;
+    background-image: url("../Assets/campo.png");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    background-position: center;
+    
+}
+header{
+    margin-top: 0.4%;
+}
+body{
+    margin: 0 auto;
+    background-color: #08007c;
+    text-align: center;
+    overflow: hidden;
+    background-image: ("../Assets/Fund.jpg");
+}
+
+
+Bola{
+    background-image: url("../Assets/bolinha.jfif");
+}
