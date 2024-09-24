@@ -14,9 +14,9 @@ class Placar {
         pontoJogador2= 0;
         bola.x=(this.c.canvas.width/2)-(bola.largura/2);
         bola.y=(this.c.canvas.height/2)-(bola.altura/2);
-        pad.x= (this.c.canvas.width - pad.largura - 10);
+        pad.x= (this.c.canvas.width - pad.largura - 5);
         pad.y=(this.c.canvas.width)- (pad.altura/2);
-        cpu.x=(this.c.canvas.width - cpu.largura - 10);
+        cpu.x=(this.c.canvas.width - cpu.largura - 5);
         cpu.y=(this.c.canvas.height/2)-(cpu.altura/2);
         setTimeout(() => {
             textWinner = "";

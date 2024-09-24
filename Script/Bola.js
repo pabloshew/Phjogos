@@ -2,8 +2,8 @@ class Bola{
     constructor(c, pad){
         this.c = c;
         this.pad= pad;
-        this.altura= 20;
-        this.largura= 20;
+        this.altura= 60;
+        this.largura= 50;
         this.vel=5;
         this.dirX= 0;
         this.dirY=0;

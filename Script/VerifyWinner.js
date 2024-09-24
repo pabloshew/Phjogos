@@ -9,7 +9,7 @@ class VerifyWinner{
 
 
     draw(){
-        if(pontoJogador1 == 2 || pontoJogador2 == 2) {
+        if(pontoJogador1 == 5 || pontoJogador2 == 5) {
             
             if( pontoJogador1 > pontoJogador2)
             {

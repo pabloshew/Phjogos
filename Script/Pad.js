@@ -3,8 +3,8 @@ class Pad{
        
         this.c = c;
         this.keyboard = keyboard;
-        this.x=50;
-        this.largura= 20;
+        this.x=0;
+        this.largura= 40;
         this.altura= 100
         this.y=(this.c.canvas.height/2)-(this.altura/2);
         this.vel=5;
